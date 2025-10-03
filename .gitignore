@@ -116,3 +116,5 @@ user_song_list.h
 compile_commands.json
 .clangd/
 .cache/
+keyboards/silakka44/.vscode/c_cpp_properties.json
+keyboards/silakka44/.vscode/settings.json
